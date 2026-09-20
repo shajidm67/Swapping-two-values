@@ -19,6 +19,16 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+    a=(input())
+    b=(input())
+    temp=a
+    a=b
+    b=temp
+    print(f"Swapped values are: {a} {b}")
+
+## OUTPUT:
+
+<img width="1282" height="375" alt="image" src="https://github.com/user-attachments/assets/bac5591f-55e2-499d-8b67-a65bb7214e16" />
 
 
 ## RESULT:
